@@ -1,5 +1,4 @@
 # 联系我们
 
-1. X:&#x20;
-2. Telegram:
-3. Discord:&#x20;
+1. X: [https://x.com/pumpx\_ai](https://x.com/pumpx_ai)
+2. Telegram: [https://t.me/pumpxai](https://t.me/pumpxai)
