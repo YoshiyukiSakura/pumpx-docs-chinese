@@ -23,7 +23,7 @@
 * [为什么同一个CA的Token价格会不同？](qa-wen-da/wei-shen-me-tong-yi-ge-ca-de-token-jia-ge-hui-bu-tong.md)
 * [为何 Gas 费这么贵？](qa-wen-da/wei-he-gas-fei-zhe-me-gui.md)
 * [如果我意外删除了我的 Google Authenticator 怎么办？](qa-wen-da/ru-guo-wo-yi-wai-shan-chu-le-wo-de-google-authenticator-zen-me-ban.md)
-* [应用风险警告](qa-wen-da/ying-yong-feng-xian-jing-gao.md)
+* [安卓系统安装指南](qa-wen-da/an-zhuo-xi-tong-an-zhuang-zhi-nan.md)
 * [转账后余额没有更新？](qa-wen-da/zhuan-zhang-hou-yuemei-you-geng-xin.md)
 * [为什么我的限价订单以不同的价格成交？](qa-wen-da/wei-shen-me-wo-de-xian-jia-ding-dan-yi-bu-tong-de-jia-ge-cheng-jiao.md)
 * [什么是“三明治攻击”？如何检查我是否受到了攻击？](qa-wen-da/shen-me-shi-san-ming-zhi-gong-ji-ru-he-jian-cha-wo-shi-fou-shou-dao-le-gong-ji.md)
