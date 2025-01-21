@@ -4,7 +4,7 @@
 
 经过全面审核，详细内容见此链接：[https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20PumpX\_en-us.pdf](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20PumpX_en-us.pdf)\
 \
-你也可以直接查看此PDF：
+你也可以下载查看此PDF：
 
 {% file src="../.gitbook/assets/PumpX-慢雾审计报告.pdf" %}
 
