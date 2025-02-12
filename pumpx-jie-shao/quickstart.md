@@ -14,6 +14,8 @@ icon: globe-pointer
 
 如果你是苹果手机，点击红圈中的按钮后，会跳转至以下页面：
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 * 如果你有Testflight App，则可以直接点击第二步中的按钮去下载 PumpX App
 * 如果你没有Testflight App，则可以从第一步开始去苹果应用商店先下载Testflight App，之后再点击第二步中的按钮，去下载 PumpX App
 
